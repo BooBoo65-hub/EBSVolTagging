@@ -1,5 +1,7 @@
 
-# Script to evaluate EBS Volume Tags. Looks through all instances in account based on KEy Tag variables and for each volume on each instance the Attachment Tag is added to each volume associated to that instance
+# Author: Zain Saleh
+# Date: 13-May-2020
+# Description: Script to evaluate EBS Volume Tags. Looks through all instances in account based on KEy Tag variables and for each volume on each instance the Attachment Tag is added to each volume associated to that instance
 
 ## Usage Notes: 
 ### environment variables:
